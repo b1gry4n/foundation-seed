@@ -78,10 +78,15 @@ Paste it into an `AGENTS.md` file in your **Codex project root folder**.
 
 This is the folder you selected when creating or opening the project in Codex.
 
-In a typical Unity project, this means:
+In a typical Unity project, this means `AGENTS.md` sits alongside folders like:
 
-- `AGENTS.md` sits **one level above** `Assets/` and `Packages/`
-- It is **NOT inside** `Assets/`
+- `Assets/`
+- `Packages/`
+- `ProjectSettings/`
+- `Library/`
+- `Logs/`
+
+Do NOT place it inside `Assets/`.
 
 ---
 
