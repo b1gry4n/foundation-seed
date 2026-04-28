@@ -208,15 +208,13 @@ It does NOT include:
 
 ## Observability
 
-Foundation Seed includes structured session logging.
+Foundation Seed logs gameplay sessions as structured data.
 
-Gameplay sessions are recorded as structured events, not just visuals.
+That means AI is not just writing code blindly. It can read what actually happened during a play session and use that as context.
 
-This allows AI tools to analyze what happened during runtime, not just the code that produced it.
+In practice, this lets AI act more like a debugger or balancing tool. Instead of guessing from scripts, it can see runtime behavior and make decisions based on real data.
 
-Instead of guessing behavior from scripts, AI can reason from actual execution data.
-
-This creates a feedback loop where systems can be built, observed, and iterated on with far more clarity.
+This creates a much tighter loop between building, running, and improving systems.
 
 ---
 
