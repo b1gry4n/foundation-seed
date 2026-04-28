@@ -22,6 +22,14 @@ Instead of starting from a blank project or a loose collection of scripts, this 
 
 ---
 
+## Who This Is For
+
+- Developers building Unity projects with AI tools
+- Anyone tired of projects becoming messy over time
+- People who care about structure, not just speed
+
+---
+
 ## Quick Start
 
 Get a new project running in a few minutes.
