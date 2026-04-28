@@ -2,12 +2,12 @@
 
 A structured Unity foundation designed for AI-assisted development workflows.
 
-Designed to give AI tools a predictable, structured environment to operate in — reducing drift and keeping projects stable as they evolve.
+Designed to give AI tools a predictable, structured environment to operate in to reduce drift and keeping projects stable as they evolve.
 
 This project is built around two layers:
 
 - **Foundation**: the stable core that defines how everything runs  
-- **Plant**: the part you grow — your gameplay, systems, and features  
+- **Plant**: the part you grow. Your gameplay, systems, and features  
 
 The seed (foundation) provides the structure.  
 The plant (your project) grows on top of it.
@@ -120,7 +120,7 @@ All project-specific code should live under:
 
 ## Why This Exists
 
-When building projects — especially with AI — things can quickly become:
+When building projects, especially with AI, things can quickly become:
 
 - hard to track  
 - inconsistent  
@@ -198,4 +198,4 @@ It does NOT include:
 
 ## One-Line Summary
 
-> A structured Unity foundation that keeps projects stable, understandable, and controllable — especially when building with AI.
+> A structured Unity foundation that keeps projects stable, understandable, and controllable. Especially when building with AI.
