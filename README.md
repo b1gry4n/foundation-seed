@@ -32,7 +32,7 @@ Get a new project running in a few minutes.
 
 Copy the package into your Unity project:
 
-`Packages/com.your.foundation.seed`
+`Packages/com.ryans.foundation.seed`
 
 Open Unity and wait for it to compile.
 
