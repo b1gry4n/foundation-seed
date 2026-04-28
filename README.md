@@ -1,6 +1,6 @@
 # Foundation Seed
 
-A structured Unity foundation designed for AI-assisted development workflows.
+A basic structured Unity foundation designed for AI-assisted development workflows meant to be extended.
 
 Designed to give AI tools a predictable, structured environment to operate in to reduce drift and keeping projects stable as they evolve.
 
