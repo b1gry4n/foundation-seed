@@ -24,9 +24,9 @@ Instead of starting from a blank project or a loose collection of scripts, this 
 
 ## Quick Start
 
-![Foundation Seed Menu](docs/images/quick-start.png)
-
 Get a new project running in a few minutes.
+
+![Foundation Seed Menu](docs/images/quick-start.png)
 
 ### 1. Install
 
