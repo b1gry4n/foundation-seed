@@ -64,7 +64,9 @@ Copy the setup blurb:
 
 `Tools → Foundation Seed → Docs → Copy AGENTS Foundation Setup Blurb`
 
-Paste it into a file at your project root:
+Paste it into an `AGENTS.md` file in your **Codex project root folder**.
+
+This is the folder you selected when you created or opened the project in Codex.
 
 `AGENTS.md`
 
