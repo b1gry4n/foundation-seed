@@ -68,7 +68,7 @@ This confirms everything is working correctly.
 
 ---
 
-### 5. Add AI Context
+### 5. Add AI Context (Required for Codex)
 
 Copy the setup blurb:
 
@@ -76,9 +76,12 @@ Copy the setup blurb:
 
 Paste it into an `AGENTS.md` file in your **Codex project root folder**.
 
-This is the folder you selected when you created or opened the project in Codex.
+This is the folder you selected when creating or opening the project in Codex.
 
-`AGENTS.md`
+In a typical Unity project, this means:
+
+- `AGENTS.md` sits **one level above** `Assets/` and `Packages/`
+- It is **NOT inside** `Assets/`
 
 ---
 
