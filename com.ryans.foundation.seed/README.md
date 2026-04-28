@@ -29,20 +29,6 @@ Reusable Unity starter foundation for new projects.
 - Any project theme/content schema
 - Default gameplay input bindings
 
-## Drop-In Usage
-1. Copy folder to `Packages/com.your.foundation.seed` in a new Unity project.
-2. Open Unity and let assemblies compile.
-3. Press Play once to initialize runtime bootstrap.
-4. Run `Tools/Foundation Seed/Setup/Run Initial Setup` to create runtime + logging + plant scaffold assets.
-5. Use `Tools/Foundation Seed/Docs/Copy AGENTS Foundation Setup Blurb` and paste into project-root `AGENTS.md`.
-6. Enter Play Mode for one short session, then run `Tools/Foundation Seed/Diagnostics/Validate Foundation Setup`.
-7. Use scaffolded project-owned plant root under `Assets/Plant/`:
-   - `Assets/Plant/Runtime/` for runtime scripts
-   - `Assets/Plant/Editor/` for editor scripts
-   - `Assets/Plant/Doctrine/` for entry doctrine and mapping doctrine
-   - `Assets/Plant/SystemMap/` for full-project map index/maps
-   - `Assets/Plant/Design/` for deeper design doctrine/systems/workflows
-
 ## Codex Logging
 - Foundation includes an editor-side codex change logger that tracks recent asset changes.
 - Config asset: `Assets/Plant/Resources/FoundationSeedCodexLoggingConfig.asset`.
@@ -67,9 +53,6 @@ Projects should branch out through composition and adapters:
   - register via `FoundationSeedTimedRuntimeDriver.EnsureInstance().RegisterClient(client)`
 
 Do not modify core package scripts for project behavior.
-
-## Human Setup Guide
-- See `OperatorSetup~/HumanSetupGuide.md` for the full human-oriented setup checklist.
 
 ## Client-Safe Export
 - Use `Tools/Foundation Seed/Release/Export Client-Safe Package` to generate a stripped copy for handoff.
