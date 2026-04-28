@@ -221,6 +221,9 @@ namespace FoundationSeed.DevConsole
             switch (commandText.ToLowerInvariant())
             {
                 case "help":
+                case "/help":
+                case "?":
+                case "commands":
                     builtInOutput = BuildHelpOutput();
                     return true;
 
@@ -351,6 +354,12 @@ namespace FoundationSeed.DevConsole
                     string suffix = string.IsNullOrWhiteSpace(command.Description) ? string.Empty : " - " + command.Description;
                     lines.Add("  " + command.CommandId + suffix);
                 }
+            }
+            else
+            {
+                lines.Add("Project commands: none registered.");
+                lines.Add("Add one in project code:");
+                lines.Add("  FoundationSeedDeveloperConsole.RegisterCommand(\"mycmd\", \"does thing\", args => \"ok\");");
             }
 
             ExternalHelpProvider helpProviders = ExternalHelpRequested;
