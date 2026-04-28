@@ -58,6 +58,7 @@ Do not modify core package scripts for project behavior.
 - Use `Tools/Foundation Seed/Release/Export Client-Safe Package` to generate a stripped copy for handoff.
 - Export removes non-runtime handoff layers while keeping runtime/editor core:
   - `Documentation~/`
+  - `Tests/`
   - `AGENTS.md`
 
 ## Governance Layer
