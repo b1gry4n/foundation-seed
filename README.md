@@ -78,6 +78,7 @@ Your project code goes here:
 
 <img width="501" height="206" alt="image" src="https://github.com/user-attachments/assets/3d90b212-aa9f-44af-a4a8-8924d16585bd" />
 
+
 - `Runtime/` → gameplay and systems  
 - `Editor/` → tools  
 - `Doctrine/` → rules and structure  
