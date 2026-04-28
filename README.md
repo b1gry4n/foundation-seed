@@ -38,15 +38,7 @@ Open Unity and wait for it to compile.
 
 ---
 
-### 2. Initialize
-
-Press **Play** once.
-
-This initializes the runtime bootstrap.
-
----
-
-### 3. Run Setup
+### 2. Run Setup
 
 In Unity, go to:
 
@@ -58,7 +50,25 @@ This creates your project structure and required config.
 
 ---
 
-### 4. Add AI Context (Recommended)
+### 3. Initialize
+
+Press **Play** once.
+
+This initializes the runtime bootstrap.
+
+---
+
+### 4. Validate
+
+Enter Play Mode briefly, then run:
+
+`Tools → Foundation Seed → Diagnostics → Validate Foundation Setup`
+
+This confirms everything is working correctly.
+
+---
+
+### 5. Add AI Context (Recommended)
 
 Copy the setup blurb:
 
@@ -69,16 +79,6 @@ Paste it into an `AGENTS.md` file in your **Codex project root folder**.
 This is the folder you selected when you created or opened the project in Codex.
 
 `AGENTS.md`
-
----
-
-### 5. Validate
-
-Enter Play Mode briefly, then run:
-
-`Tools → Foundation Seed → Diagnostics → Validate Foundation Setup`
-
-This confirms everything is working correctly.
 
 ---
 
