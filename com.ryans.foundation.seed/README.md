@@ -20,7 +20,6 @@ Reusable Unity starter foundation for new projects.
 - ADR-lite decision scaffold
 - Optional intent logging stream
 - Doctrine + system maps in `Documentation~`
-- Human-operator setup layer in `OperatorSetup~` (intended to be ignored by Codex unless explicitly requested)
 - Runtime/editor tests
 
 ## Non-Goals
