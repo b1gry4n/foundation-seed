@@ -14,7 +14,7 @@ Instead of starting from a blank project or a loose collection of scripts, this 
 
 ## Quick Start
 
-<img width="706" height="142" alt="image" src="https://github.com/user-attachments/assets/b03768e9-65fd-4431-9e97-05e234844a2c" />
+![Foundation Seed Menu](docs/images/quick-start.png)
 
 Get a new project running in a few minutes.
 
@@ -42,7 +42,7 @@ In Unity, go to:
 
 `Tools → Foundation Seed → Setup → Run Initial Setup`
 
-<img width="879" height="144" alt="image" src="https://github.com/user-attachments/assets/93f29ee1-caff-4124-9706-47b2d1aa6201" />
+![Run Initial Setup](docs/images/run-setup.png)
 
 This creates your project structure and required config.
 
@@ -76,7 +76,7 @@ Your project code goes here:
 
 `Assets/Plant/`
 
-<img width="501" height="206" alt="image" src="https://github.com/user-attachments/assets/3d90b212-aa9f-44af-a4a8-8924d16585bd" />
+![Project Structure](docs/images/project-files.png)
 
 
 - `Runtime/` → gameplay and systems  
