@@ -2,6 +2,14 @@
 
 A structured Unity foundation designed for AI-assisted development workflows.
 
+This project is built around two layers:
+
+- **Foundation**: the stable core that defines how everything runs  
+- **Plant**: the part you grow — your gameplay, systems, and features  
+
+The seed (foundation) provides the structure.  
+The plant (your project) grows on top of it.
+
 ---
 
 ## What This Is
