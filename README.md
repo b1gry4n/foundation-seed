@@ -68,7 +68,7 @@ This initializes the runtime bootstrap.
 
 ### 4. Validate
 
-Enter Play Mode briefly, then run:
+Run:
 
 `Tools → Foundation Seed → Diagnostics → Validate Foundation Setup`
 
