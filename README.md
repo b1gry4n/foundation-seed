@@ -2,6 +2,8 @@
 
 A structured Unity foundation designed for AI-assisted development workflows.
 
+Designed to give AI tools a predictable, structured environment to operate in — reducing drift and keeping projects stable as they evolve.
+
 This project is built around two layers:
 
 - **Foundation**: the stable core that defines how everything runs  
