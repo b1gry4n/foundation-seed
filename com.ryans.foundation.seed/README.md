@@ -31,11 +31,10 @@ Reusable Unity starter foundation for new projects.
 ## Drop-In Usage
 1. Copy folder to `Packages/com.your.foundation.seed` in a new Unity project.
 2. Open Unity and let assemblies compile.
-3. Press Play once to initialize runtime bootstrap.
-4. Run `Tools/Foundation Seed/Setup/Run Initial Setup` to create runtime + logging + plant scaffold assets.
+3. Run `Tools/Foundation Seed/Setup/Run Initial Setup` to create runtime + logging + plant scaffold assets.
+4. Press Play once to initialize runtime bootstrap, then run `Tools/Foundation Seed/Diagnostics/Validate Foundation Setup`.
 5. Use `Tools/Foundation Seed/Docs/Copy AGENTS Foundation Setup Blurb` and paste into project-root `AGENTS.md`.
-6. Enter Play Mode for one short session, then run `Tools/Foundation Seed/Diagnostics/Validate Foundation Setup`.
-7. Use scaffolded project-owned plant root under `Assets/Plant/`:
+6. Use scaffolded project-owned plant root under `Assets/Plant/`:
    - `Assets/Plant/Runtime/` for runtime scripts
    - `Assets/Plant/Editor/` for editor scripts
    - `Assets/Plant/Doctrine/` for entry doctrine and mapping doctrine
