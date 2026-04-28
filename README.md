@@ -218,6 +218,16 @@ This creates a much tighter loop between building, running, and improving system
 
 ---
 
+## Doctrine
+
+Doctrine defines the rules and constraints that govern how AI operates within the project.
+
+It is not documentation.
+
+It is the system-level guidance that shapes how code is generated, structured, and evolved.
+
+---
+
 ## How to Think About It
 
 - This is your project’s **engine room**, not the game itself  
