@@ -1,0 +1,20 @@
+﻿{
+  "name": "com.ryans.foundation.seed",
+  "displayName": "Foundation Seed",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "A structured Unity foundation for AI-assisted development workflows. Provides runtime bootstrap, time orchestration, observability, developer tooling, and a clear separation between stable foundation systems and project-owned code.",
+  "author": {
+    "name": "Ryan Sharr",
+    "url": "https://www.ryansharr.com",
+    "email": "hello@ryansharr.com"
+  },
+  "keywords": [
+    "unity",
+    "foundation",
+    "architecture",
+    "ai",
+    "systems",
+    "tooling"
+  ]
+}
