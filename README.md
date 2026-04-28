@@ -68,7 +68,7 @@ This confirms everything is working correctly.
 
 ---
 
-### 5. Add AI Context (Recommended)
+### 5. Add AI Context
 
 Copy the setup blurb:
 
