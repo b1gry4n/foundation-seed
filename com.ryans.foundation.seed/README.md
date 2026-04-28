@@ -66,9 +66,6 @@ Projects should branch out through composition and adapters:
 
 Do not modify core package scripts for project behavior.
 
-## Human Setup Guide
-- See `OperatorSetup~/HumanSetupGuide.md` for the full human-oriented setup checklist.
-
 ## Client-Safe Export
 - Use `Tools/Foundation Seed/Release/Export Client-Safe Package` to generate a stripped copy for handoff.
 - Export removes non-runtime handoff layers while keeping runtime/editor core:
